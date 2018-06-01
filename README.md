@@ -2,6 +2,8 @@
 aka. Programming is Fun (for Engineering Computation students).  
 Visit the fan page at [algorithmsarefun.com](https://algorithmsarefun.com) or [algorithmsare.fun](https://algorithmsare.fun)
 
+*STATUS: UNRELEASED, UNDER DEVELOPMENT, NO RFCS WILL BE PROCESSED*
+
 ## What is this?
 This is a [Alistair Moffat](https://people.eng.unimelb.edu.au/ammoffat/) fan page source code repository. Who is Alistair Moffat? Overall passionate and entertaining lecturer who cares a lot about his students and has enough street cred to have his students set something up like this voluntarily. "Algorithms are fun" and "Programming is fun" are his punch lines in his lectures.
  
@@ -11,6 +13,7 @@ Alistair Moffat fan page "Algorithms are Fun" is written in React, compiled into
 $ npm i
 $ npm run dev
 ```
+
 ## Contributing
 Anybody can contribute to the fan page! However, the website's direction is determined by the author(s), just like any other responsible software.
 
@@ -33,11 +36,14 @@ This project is completely independent of Alistair Moffat. This project is purel
 _Q:_ Why use React for such a simple website?
 _A:_ TLDR; I wanted basic OO frontend development that everybody knows (or useful to know). Why OO? Everybody (and their dumb dog) understands OO and Object-Oriented Software Design.
 
-_Q:_ SASS/SCSS?
-_A:_ There is no planned integration for SCSS at current stage, React is overkill enough.
-
-_Q:_ Why?
+_Q:_ Why make this?
 _A:_ Go attend one of his lectures.
+
+_Q:_ Why such a strict development process?
+_A:_ Just incase shit tonnes of students want to start contributing and I do not want my repo to be filled with shit code from students :P (PS. I tutor at the university outside working hours and I know what average students write)
+
+_Q:_ Who is paying for the domain?
+_A:_ I am (Max Lee), just for fun. If you feel like helping out, buy me a bottle of coke (or coffee, but something sweet please).
 
 ## Authors
 Max Lee aka Sanmu
