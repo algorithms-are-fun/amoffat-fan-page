@@ -15,24 +15,24 @@ $ npm run dev
 ```
 
 ## Contributing
-Refer to CONTRIBUTING.md
+Refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Disclaimer
 This project is completely independent of Alistair Moffat. This project is purely organized by [Max Lee](https://mallocsizeof.me), now graduated student of Alistair's.
 
 ## QnA
-_Q:_ Why use React for such a simple website?
+_Q:_ Why use React for such a simple website?  
 _A:_ TLDR; I wanted basic OO frontend development that everybody knows (or useful to know). Why OO? Everybody (and their dumb dog) understands OO and Object-Oriented Software Design.
 
-_Q:_ Why make this?
+_Q:_ Why make this?  
 _A:_ Go attend one of his lectures.
 
-_Q:_ Why such a strict development process?
+_Q:_ Why such a strict development process?  
 _A:_ Just incase shit tonnes of students want to start contributing and I do not want my repo to be filled with shit code from students :P (PS. I tutor at the university outside working hours and I know what average students write)
 
-_Q:_ Who is paying for the domain?
+_Q:_ Who is paying for the domains?  
 _A:_ I am (Max Lee), just for fun. If you feel like helping out, buy me a bottle of coke (or coffee, but something sweet please).
 
 ## Authors
-Max Lee aka Sanmu
+Max Lee aka Sanmu  
 [Blog](https://mallocsizeof.me) | [Indie game development studio](https://mirrorstairstudio.com)
