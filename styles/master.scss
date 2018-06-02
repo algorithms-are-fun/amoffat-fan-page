@@ -1,3 +1,17 @@
+@import 'constants.scss';
+
+html {
+  font-family: $font_primary;
+}
+
 body {
-  background: gray;
+  color: $col_dark;
+  background: $col_light;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: initial;
+  font-weight: initial;
 }

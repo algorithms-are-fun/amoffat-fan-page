@@ -6,6 +6,7 @@ export default class extends Document {
     return (
       <html>
         <Head>
+          <title>Algorithms are fun!</title>
           <link rel="stylesheet" href="/_next/static/style.css" />
         </Head>
         <body>
