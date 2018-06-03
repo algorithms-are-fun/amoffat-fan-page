@@ -1,6 +1,7 @@
 import React from 'react'
 import Header from './header'
 import Footer from './footer'
+import "../styles/master.scss"
 import '../styles/theme/maintheme.scss'
 
 export default function MainThemify(Content) {

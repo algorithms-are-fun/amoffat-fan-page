@@ -1,5 +1,4 @@
 import React from 'react'
-import Router from 'next/router'
 import '../styles/theme/header.scss'
 
 const menuItems = [
@@ -35,9 +34,11 @@ export default class extends React.Component {
     for(var repeat = 0; repeat < 3; repeat++) {
       for(var i = 0; i < menuItems.length; i++) {
         var cls = "";
-        if(Router.asPath == menuItems[i].link) {
+
+        if(window.location.pathname.indexOf(menuItems[i].link) == 0) {
           cls = "active"
         }
+
         menu.push(
           <a className={cls} href={menuItems[i].link} key={"item-" + repeat + i}>
             {menuItems[i].name}

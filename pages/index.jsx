@@ -1,4 +1,5 @@
 import React from 'react'
+import "../styles/master.scss"
 import '../styles/index/index.scss'
 import '../styles/index/speech.scss'
 import Quotes from '../helpers/MoffatQuotes.jsx'
