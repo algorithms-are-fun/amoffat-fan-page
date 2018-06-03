@@ -5,13 +5,45 @@ html {
 }
 
 body {
-  color: $col_dark;
-  background: $col_light;
+  color: $col_light;
+  background: $col_dark;
   margin: 0;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: normal;
 }
 
 a {
   text-decoration: none;
-  color: initial;
+  color: $col_joker;
   font-weight: initial;
+}
+
+a:hover {
+  background-color: $col_joker;
+  color: $col_dark;
+}
+
+div.code {
+  background: $col_light;
+  color: $col_dark;
+  padding: 1em;
+  font-family: $font_mono;
+  counter-reset: line;
+
+  span {
+    width: 100%;
+    display: block;
+  }
+
+  span::before {
+    counter-increment: line;
+    content: counter(line);
+    display: inline-block;
+    border-right: 1px solid #ddd;
+    padding: 0 .5em;
+    margin-right: .5em;
+    color: #888 
+  }
 }

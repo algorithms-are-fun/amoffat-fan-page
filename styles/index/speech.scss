@@ -10,7 +10,7 @@
 // Settings
 $col_bubble: $col_joker;
 $col_border: $col_dark;
-$col_font: $col_primary;
+$col_font: $col_light;
 $font_bubble: $font_mono;
 
 /* CSS talk bubble */
@@ -254,7 +254,7 @@ $font_bubble: $font_mono;
   padding: 1em;
   text-align: left;
   line-height: 1.5em;
-  color: $col_font;
+  color: $col_font !important;
   font-family: $font_bubble;
 }
 .talktext p{

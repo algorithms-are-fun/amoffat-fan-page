@@ -1,0 +1,13 @@
+@import '../constants';
+
+.footer {
+  background: $col_primary;
+  color: $col_dark;
+  text-align: center !important;
+  padding: 2em 0;
+
+  a {
+    color: $col_dark;
+    text-decoration: underline;
+  }
+}

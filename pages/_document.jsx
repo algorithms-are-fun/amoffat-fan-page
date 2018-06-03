@@ -5,14 +5,17 @@ export default class extends Document {
   render() {
     return (
       <html>
+      
         <Head>
-          <title>Algorithms are fun!</title>
+          <title>What is that is Fun?</title>
           <link rel="stylesheet" href="/_next/static/style.css" />
         </Head>
+
         <body>
           <Main />
           <NextScript />
         </body>
+
       </html>
     )
   }
