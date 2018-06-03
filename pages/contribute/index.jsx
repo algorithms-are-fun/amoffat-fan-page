@@ -19,7 +19,7 @@ class Main extends React.Component {
       </p>
 
       <p>
-        Contribute now on <a href="https://github.com/bermuda-ut">Github</a>!
+        Contribute now on <a href="https://github.com/algorithms-are-fun/amoffat-fan-page">Github</a>!
       </p>
 
       <img src="/static/mofface/2012.jpg" alt="" style={{

@@ -14,7 +14,7 @@ class Main extends React.Component {
       <p>This new page is setup for students to encourage students to contribute to
         open-source software. This can be simply providing ideas, content (memes are welcome), or 
         developing a requested feature to show off your front-end development 133t skills.</p>
-      <p>Alistair is watching you, contribute now on <a href="https://github.com/bermuda-ut/algorithms-are-fun">Github</a>!</p>
+      <p>Alistair is watching you, contribute now on <a href="https://github.com/algorithms-are-fun/amoffat-fan-page">Github</a>!</p>
 
       <hr/>
 

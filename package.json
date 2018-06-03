@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bermuda-ut/algorithms-are-fun.git"
+    "url": "git+https://github.com/algorithms-are-fun/amoffat-fan-page.git"
   },
   "keywords": [
     "alistair",
@@ -27,7 +27,7 @@
   "author": "Max Lee (mallocsizeof.me)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bermuda-ut/algorithms-are-fun/issues"
+    "url": "https://github.com/algorithms-are-fun/amoffat-fan-page/issues"
   },
-  "homepage": "https://github.com/bermuda-ut/algorithms-are-fun#readme"
+  "homepage": "https://github.com/algorithms-are-fun/amoffat-fan-page#readme"
 }
