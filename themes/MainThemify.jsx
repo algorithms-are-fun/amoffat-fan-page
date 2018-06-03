@@ -10,7 +10,7 @@ export default function MainThemify(Content) {
         <div className="headerwrapper">
           <Header/>
         </div>
-          <div className="container">
+          <div className="main-container">
             <Content/>
           </div>
         <Footer/>

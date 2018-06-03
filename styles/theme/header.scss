@@ -30,7 +30,7 @@
       color: $col_dark;
     }
 
-    a:hover {
+    a:hover, a.active {
       color: $col_light;
       background: $col_dark;
     }

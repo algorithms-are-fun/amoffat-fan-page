@@ -1,4 +1,5 @@
 import React from 'react'
+import Router from 'next/router'
 import '../styles/theme/header.scss'
 
 const menuItems = [
@@ -26,16 +27,25 @@ export default class extends React.Component {
     this.state = {
       menu: [],
     };
+  }
+
+  componentDidMount() {
+    var menu = [];
 
     for(var repeat = 0; repeat < 3; repeat++) {
       for(var i = 0; i < menuItems.length; i++) {
-        this.state.menu.push(
-          <a href={menuItems[i].link} key={"item-" + repeat + i}>
+        var cls = "";
+        if(Router.asPath == menuItems[i].link) {
+          cls = "active"
+        }
+        menu.push(
+          <a className={cls} href={menuItems[i].link} key={"item-" + repeat + i}>
             {menuItems[i].name}
           </a>);
       }
     }
-    console.log(this.state.menu)
+
+    this.setState({menu: menu});
   }
 
   render() {

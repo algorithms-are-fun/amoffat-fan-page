@@ -1,0 +1,28 @@
+.about {
+  .profile {
+    .details {
+      text-align: center;
+
+      h1, h2 {
+        margin: 0;
+      }
+
+      h1 {
+        font-size: 6em;
+      }
+      
+      hr {
+        margin: 4em 30%;
+      }
+    }
+  }
+
+  .book {
+    img {
+      width: 50%;
+    }
+    p {
+      text-align: center;
+    }
+  }
+}

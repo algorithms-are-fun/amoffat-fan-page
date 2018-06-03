@@ -9,7 +9,7 @@
   .title {
     background: $col_joker;
     padding: 1em 0;
-    height: 14vh;
+    
     h1 {
       color: $col_dark;
       font-size: 4em;
@@ -22,7 +22,7 @@
   }
 
   .moffsay {
-    height: 86vh;
+    margin-top: 10vh;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -32,8 +32,23 @@
     }
 
     .talk-bubble {
-      margin-left: -150px;
+      margin-left: -10vw;
       position: absolute;
+    }
+  }
+}
+
+@media only screen 
+and (max-device-width: 600px) {
+  .landing{
+    .moffsay {
+      img {
+        width: 80vw;
+        height: auto;
+      }
+      .talk-bubble {
+        margin-left: -45vw !important;
+      }
     }
   }
 }

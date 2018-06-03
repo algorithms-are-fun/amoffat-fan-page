@@ -1,3 +1,4 @@
+@import 'bootstrap.css';
 @import 'constants.scss';
 
 html {
@@ -12,6 +13,11 @@ body {
 
 h1, h2, h3, h4, h5 {
   font-weight: normal;
+}
+
+p {
+  font-size: 1.3em;
+  font-weight: lighter;
 }
 
 a {
@@ -46,4 +52,8 @@ div.code {
     margin-right: .5em;
     color: #888 
   }
+}
+
+* {
+    box-sizing: border-box;
 }
