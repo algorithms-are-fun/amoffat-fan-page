@@ -4,6 +4,10 @@ about: Suggest an idea for this project
 
 ---
 
+Please select the correct label on the right ---------------------->
+Please select a moderator who'll review this ---------------------->
+Please delete the above instructions once you've completed them
+
 **Suggested Feature**
 Describe the solution you'd like. A clear and concise description of what you want to happen.
 
