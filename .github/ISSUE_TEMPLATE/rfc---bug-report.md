@@ -4,7 +4,7 @@ about: Create a report to help us improve
 
 ---
 
-Please select the correct label on the right ---------------------->
+Please select the "bug" label on the right ---------------------->
 Please delete the above instructions once you've completed them
 
 **Describe the bug**

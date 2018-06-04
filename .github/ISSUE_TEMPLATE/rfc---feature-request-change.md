@@ -4,8 +4,9 @@ about: Suggest an idea for this project
 
 ---
 
-Please select the correct label on the right ---------------------->
-Please select a moderator who'll review this ---------------------->
+Please select "RFC" label on the right ---------------------->
+Please select any users you would like to have people involved ---------------------->
+(You do not need to add mods, they'll check anything labelled RFC)
 Please delete the above instructions once you've completed them
 
 **Suggested Feature**

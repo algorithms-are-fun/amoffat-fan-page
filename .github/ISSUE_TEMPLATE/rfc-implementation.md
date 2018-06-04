@@ -1,10 +1,10 @@
 ---
 name: RFC Implementation
-about: Based on RFC
+about: Based on RFC, Implement the new feature/change
 
 ---
 
-Please select the correct label on the right ---------------------->
+Please select the correct label (new feature or enhancement) on the right ----->
 Please delete the above instructions once you've completed them
 
 **Link to the original RFC**
