@@ -2,8 +2,6 @@
 aka. Programming is Fun (for Engineering Computation students).  
 Visit the fan page at [algorithmsarefun.com](https://algorithmsarefun.com) or [algorithmsare.fun](https://algorithmsare.fun)
 
-*STATUS: UNRELEASED, UNDER DEVELOPMENT, NO RFCS WILL BE PROCESSED*
-
 ## What is this?
 This is a [Alistair Moffat](https://people.eng.unimelb.edu.au/ammoffat/) fan page source code repository. Who is Alistair Moffat? Overall passionate and entertaining lecturer who cares a lot about his students and has enough street cred to have his students set something up like this voluntarily. "Algorithms are fun" and "Programming is fun" are his punch lines in his lectures.
 
