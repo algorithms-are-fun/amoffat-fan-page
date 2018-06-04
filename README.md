@@ -31,7 +31,7 @@ _Q:_ Why make this?
 _A:_ Why Alistair Moffat: Go attend one of his lectures. Why do this: as mentioned above, also for myself to build my skills in open-source project management.
 
 _Q:_ Why such a strict development process?  
-_A:_ Just incase shit tonnes of students want to start contributing and I do not want my repo to be filled with shit code from students :P (PS. I tutor at the university outside working hours and I know what average students write)
+_A:_ Just incase a lot of students want to start contributing and I do not want my repo to be filled with inconsistent code from students.
 
 _Q:_ Who is paying for the domains?  
 _A:_ I am (Max Lee), just for fun. If you feel like helping out, buy me a bottle of coke when you bump into me (or coffee, but something sweet please).
