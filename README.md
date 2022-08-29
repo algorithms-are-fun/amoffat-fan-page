@@ -23,19 +23,5 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md)
 ## Disclaimer
 This project is completely independent of Alistair Moffat. This project is purely organized by [Max Lee](https://mallocsizeof.me), now graduated student of Alistair's.
 
-## QnA
-_Q:_ Why use React + SCSS for such a simple website?  
-_A:_ TLDR: I wanted basic OO frontend development that everybody knows (or useful to know). Why OO? Everybody (and their dumb dog) understands OO and Object-Oriented Software Design. SCSS because there were some features I find useful in group work.
-
-_Q:_ Why make this?  
-_A:_ Why Alistair Moffat: Go attend one of his lectures. Why do this: as mentioned above, also for myself to build my skills in open-source project management.
-
-_Q:_ Why such a strict development process?  
-_A:_ Just incase a lot of students want to start contributing and I do not want my repo to be filled with inconsistent code from students.
-
-_Q:_ Who is paying for the domains?  
-_A:_ I am (Max Lee), just for fun. If you feel like helping out, buy me a bottle of coke when you bump into me (or coffee, but something sweet please).
-
 ## Project Owner
-This project was initiated by Max Lee (aka Sanmu)  
-[Blog](https://mallocsizeof.me) | [Indie game dev studio](https://mirrorstairstudio.com)
+This project was initiated by Max Lee
